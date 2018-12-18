@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\hostel management system\hostel management system\bin\Debug\hostel management system.exe.config
+C:\Users\user\Desktop\hostel management system\hostel management system\bin\Debug\hostel management system.exe
+C:\Users\user\Desktop\hostel management system\hostel management system\bin\Debug\hostel management system.pdb
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel management system.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel_management_system.Form1.resources
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel_management_system.Properties.Resources.resources
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel management system.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel management system.exe
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel management system.pdb
+C:\Users\user\Desktop\hostel management system\hostel management system\obj\Debug\hostel_management_system.realform.resources
